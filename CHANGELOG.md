@@ -29,6 +29,9 @@ Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 - Pânico no destrutor do plugin abortaria o lxpanel.
 - MSRV declarado (1.88) era menor que o exigido pela gtk-rs (1.92).
 
+### Mudado
+- Licença trocada de GPL-2.0-or-later para WTFPL.
+
 ### Desempenho
 - Animação de 30 para 15 fps em transições e ~7,5 fps parada: o consumo do
   lxpanel caiu de ~7,8% para ~2% de um núcleo.

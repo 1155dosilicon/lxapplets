@@ -89,4 +89,14 @@ ao array `PLUGINS` do `install.sh`.
 
 ## Licença
 
-GPL-2.0-or-later, a mesma do lxpanel. Veja [LICENSE](LICENSE).
+Copyright © 2026 1155dosilicon. Distribuído sob a **WTFPL**
+(*Do What The Fuck You Want To Public License*, versão 2). O texto completo
+cabe numa linha e está em [LICENSE](LICENSE):
+
+> 0. You just DO WHAT THE FUCK YOU WANT TO.
+
+Sem garantia nenhuma: se os cilindros transbordarem, o problema é seu.
+
+Os plugins rodam dentro do lxpanel, que é GPL-2.0-or-later; a FSF considera
+a WTFPL compatível com a GPL, então dá para distribuir junto sem drama. As
+dependências (gtk-rs) são MIT.
